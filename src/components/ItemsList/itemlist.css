@@ -1,0 +1,13 @@
+#itemlist {
+  width: 80%;
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+}
+
+.price {
+  position: absolute;
+  right: 100px;
+  top: 5px;
+  font-size: 24px;
+}
